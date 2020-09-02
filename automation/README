@@ -1,0 +1,3 @@
+vlib work
+vlog counter.v
+vsim -c -do sim.do counter -wlf counter.wlf
